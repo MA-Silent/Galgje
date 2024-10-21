@@ -2,7 +2,9 @@
 
 ## Te raden woord
 
-| | i | | |
+| S | i | g | n |
+
+## SIGN
 
 |a|o|E|-|-|-|-|
 
@@ -16,4 +18,4 @@
 * Robert raad o(Fout)
 * Jonah raad E(Fout)
 * Robert raad i(Goed)
-* Jonah raad sign
+* Jonah raad sign(GOED)
