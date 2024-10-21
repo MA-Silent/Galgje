@@ -15,3 +15,4 @@
 * Jonah raad A(Fout)
 * Robert raad o(Fout)
 * Jonah raad E(Fout)
+* Robert raad i 
