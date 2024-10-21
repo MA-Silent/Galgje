@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | |
+| | i | | |
 
 |a|o|E|-|-|-|-|
 
@@ -15,4 +15,4 @@
 * Jonah raad A(Fout)
 * Robert raad o(Fout)
 * Jonah raad E(Fout)
-* Robert raad i 
+* Robert raad i(Goed)
